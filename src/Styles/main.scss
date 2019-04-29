@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Crete+Round');
+
+// overriding bootstrap styling
+$font-family-sans-serif: 'Crete Round', serif;
+$primary: #503291;
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
